@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create TikTok Content"
+  short_description: "Create concise TikTok scripts and shot lists."
+  default_prompt: "Use $create-tiktok-content to create a TikTok video concept for this idea:"

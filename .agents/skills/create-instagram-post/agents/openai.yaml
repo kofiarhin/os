@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Instagram Post"
+  short_description: "Generate brand-aligned Instagram post copy."
+  default_prompt: "Use $create-instagram-post to create an Instagram post for this content:"

@@ -7,7 +7,7 @@ description: Create Instagram posts, captions, carousels, Reel concepts, hooks, 
 
 ## Required Context
 
-Before writing any Instagram copy, read `~/.codex/context/PERSONAL_PROFILE.md`.
+Before writing any Instagram copy, read `CONTEXT/PERSONAL_PROFILE.md`.
 
 If that file is unavailable, stop and ask the user for the correct profile path or brand context. Do not generate the post from memory alone.
 

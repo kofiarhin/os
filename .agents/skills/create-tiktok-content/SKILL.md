@@ -7,13 +7,14 @@ description: Create TikTok video concepts, scripts, hooks, captions, shot lists,
 
 ## Required Context
 
-Before creating TikTok or short-form video content, read:
+Before creating TikTok or short-form video content, read `CONTEXT/BRANDS/KOFI.md`.
 
-- `CONTEXT/PERSONAL_PROFILE.md`
-- `CONTEXT/MEMORY.md`
-- `CONTEXT/BRANDS/KOFI.md`
+Load additional context only when it is relevant:
 
-If any required context file is unavailable, stop and ask one focused question for the missing path or brand context. Do not generate content from memory alone.
+- Read `CONTEXT/PERSONAL_PROFILE.md` when the request depends on Kofi's personal or technical details.
+- Read `CONTEXT/MEMORY.md` when prior decisions or proven content patterns could affect the result.
+
+If the brand profile is unavailable, stop and ask one focused question for the correct path or brand context. If optional context is required but unavailable, ask one focused question for the missing information. Do not generate content from memory alone.
 
 ## Workflow
 
